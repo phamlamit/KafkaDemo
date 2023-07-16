@@ -1,13 +1,13 @@
-package com.laptrinhjava.kafkademo;
+package com.laptrinhjava.accountservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class KafkaDemoApplication {
+public class AccountServiceApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(KafkaDemoApplication.class, args);
+        SpringApplication.run(AccountServiceApplication.class, args);
     }
 
 }

@@ -1,10 +1,10 @@
-package com.laptrinhjava.kafkademo;
+package com.laptrinhjava.accountservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class KafkaDemoApplicationTests {
+class AccountServiceApplicationTests {
 
     @Test
     void contextLoads() {
